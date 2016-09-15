@@ -1,1 +1,141 @@
-
+/*-- SantaCruz Styles
+* GPL, Eric York 2016
+--*/
+/*-- Color Scheme --/
+* red: DC3522
+* tan: D9CB9E
+* gray: 374140
+* dkgray: 2A2C2B
+* black: 1E1E20
+* ltgray-link: 788E8B
+* ltgreen-hover: 4D8E87
+* dkgreen-visited: 315B56
+* gray-active: 374140
+* ltgreen-focus: B8DAD7
+* white-bkgrnd: D8FFFB
+--*/
+/*-- General Styles --*/
+body {
+  font-family: Lato, Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  margin:0;
+  padding: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Secular One', sans-serif;
+  padding-top: 16px;
+}
+h1 {
+  font-size: 40px;
+}
+h2 {
+  font-size: 32px;rem;
+}
+h1.site-title {
+  font-size: 52px;
+  color: #DC3522;
+}
+p:last-child {
+  padding-bottom: 12px;
+}
+header {
+  padding: 0 18%;
+  text-align: center;
+  padding-bottom: 28px
+}
+section {
+  margin: 0;
+  padding: 40px 18%;
+  text-align: center;
+}
+section p, header ul {
+  margin: 0 0;
+}
+section h1, section h2, header h1 {
+  margin: 0 0;
+}
+section ul {
+  margin: 0 0;
+}
+section img {/*-- Makes section images responsive --*/
+  width: 100%;
+  height: auto;
+}
+footer p {
+  margin: 0 0;
+  padding-top: 12px;
+  text-align: center;
+}
+/*-- Link Styles --*/
+a:link {
+  color:#788E8B;
+  font-weight: 400;
+}
+a:visited {
+  color: #315B56;
+}
+a:hover {
+  color: #4D8E87;
+}
+a:active {
+  background-color: #374140;
+  color: #2A2C2B;
+}
+/*-- Nav Styles --*/
+.social-nav ul {
+  list-style-type: none;
+  margin-left: -40px;
+}
+.social-nav ul li {
+  display: inline;
+  padding-left: 20px;
+  opacity: .75;
+}
+.social-nav ul li:hover {
+  opacity: 1;
+}
+.social-nav ul li a img {
+  width: 32px;
+  height: auto;
+}
+.inline {
+  display: inline;
+}
+img.inline {
+  width: 30%;
+  height: auto;
+}
+/*-- Section Styles --*/
+header {
+  background-color: #1E1E20;
+}
+#intro {
+  background-color: #b58900;
+}
+#intro p {
+  font-size: 28px;
+}
+#gallery {
+  background-color: #374140;
+  color: #D9CB9E;
+}
+#resources {
+  background-color: #D8FFFB;
+  color: #2A2C2B;
+}
+#resources ul {
+  list-style-type: none;
+}
+#contact {
+  background-color: #374140;
+  color: #D9CB9E;
+}
+#gallery p {
+  border-bottom: 2px solid #D9CB9E;
+}
+/*-- Footer Styles --*/
+footer {
+  background-color: #1E1E20;
+  color: #D8FFFB;
+}
