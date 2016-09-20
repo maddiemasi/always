@@ -31,7 +31,7 @@ h2 {
 }
 h1.site-title {
   font-size: 52px;
-  color: #DC3522;
+  color: #F2CE1B;
 }
 p:last-child {
   padding-bottom: 12px;
@@ -105,7 +105,7 @@ img.inline {
 }
 /*-- Section Styles --*/
 header {
-  background-color: #1E1E20;
+  background-color: #000000;
 }
 #intro {
   background-color: #b58900;
