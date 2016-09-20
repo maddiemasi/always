@@ -66,14 +66,14 @@ footer p {
 }
 /*-- Link Styles --*/
 a:link {
-  color:#788E8B;
+  color:#374140;
   font-weight: 400;
 }
 a:visited {
-  color: #315B56;
+  color: #000000;
 }
 a:hover {
-  color: #4D8E87;
+  color: #BF8924;
 }
 a:active {
   background-color: #374140;
