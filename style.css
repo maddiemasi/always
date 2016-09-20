@@ -7,7 +7,7 @@
 * gray: 5A6C73
 * dkgray: 2A2C2B
 * black: 000000
-* link-hover: D9C14A
+* mustard: D9C14A
 * gray-active: 374140
 * light-color: F2E7AC
 --*/
@@ -31,7 +31,7 @@ h2 {
 }
 h1.site-title {
   font-size: 52px;
-  color: #F2CE1B;
+  color: #000000;
 }
 p:last-child {
   padding-bottom: 12px;
@@ -108,7 +108,7 @@ header {
   background-color: #000000;
 }
 #intro {
-  background-color: #b58900;
+  background-color: #D9C14A;
 }
 #intro p {
   font-size: 28px;
