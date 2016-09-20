@@ -1,29 +1,26 @@
-/*-- SantaCruz Styles
-* GPL, Eric York 2016
+/*-- alwayssunny stylesheet
+* Madeline Masi, 2016
 --*/
 /*-- Color Scheme --/
-* red: DC3522
-* tan: D9CB9E
-* gray: 374140
+* yellow: F2CE1B
+* tan: BF8924
+* gray: 5A6C73
 * dkgray: 2A2C2B
-* black: 1E1E20
-* ltgray-link: 788E8B
-* ltgreen-hover: 4D8E87
-* dkgreen-visited: 315B56
+* black: 000000
+* link-hover: D9C14A
 * gray-active: 374140
-* ltgreen-focus: B8DAD7
-* white-bkgrnd: D8FFFB
+* light-color: F2E7AC
 --*/
 /*-- General Styles --*/
 body {
-  font-family: Lato, Helvetica, Arial, sans-serif;
+  font-family: 'Arvo',  serif;
   font-weight: 300;
   font-size: 18px;
   margin:0;
   padding: 0;
 }
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Secular One', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
   padding-top: 16px;
 }
 h1 {
