@@ -64,6 +64,10 @@ footer p {
   padding-top: 12px;
   text-align: center;
 }
+footer img{
+  margin: 0,0;
+  padding-top: 12px;
+}
 /*-- Link Styles --*/
 a:link {
   color:#374140;
